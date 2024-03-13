@@ -1,14 +1,12 @@
-# android_interview_questions
-This repo will include mostly asked android interview questions
+![android_interview](https://github.com/umeshtaneja/android_interview_questions/assets/22681420/51f85076-2774-4454-bc9d-cb06e4bfad1d)
 
-KOTLIN - 
+**KOTLIN -**
 
 Interviewer - Why kotlin over java ?
 
 You  - We have may adavantages of using Kotlin over java as - 
-
          1. Readability - Comparing to Java, Kotlin has more readable and precise code which 
-                          makes it easier to understand the program.	
+                          **makes** it easier to understand the program.	
          
          2. Null-Safe   - Null pointer exceptions also referred to as “The billion-dollar mistake”, 
 		 				  is one of the most common errors that cause apps to crash if you are using Java.
