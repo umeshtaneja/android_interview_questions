@@ -1,4 +1,4 @@
-![android_interview](https://github.com/umeshtaneja/android_interview_questions/assets/22681420/51f85076-2774-4454-bc9d-cb06e4bfad1d)
+![image_android](https://github.com/umeshtaneja/android_interview_questions/assets/22681420/416f169f-78e2-43c1-bda6-484b04b2d627)
 
 **KOTLIN -**
 
